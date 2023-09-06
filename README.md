@@ -1,4 +1,4 @@
-# Your Vue 3 Project Name
+# MHANIFAZMI CHESS PROFILE
 
 Welcome to Chess mhanifazmi's profile! This README provides the steps to get your project up and running.
 
@@ -25,7 +25,6 @@ git clone https://github.com/mhanifazmi/chess-profile.git
 1. Install NPM packages
 ```
 npm install
-
 ```
 
 ### Build Setup
@@ -33,5 +32,9 @@ npm install
 1. Serve with hot reload at localhost:8080
 ```
 npm run serve
+```
 
+2. Access the project at
+```
+http://localhost:8080
 ```
