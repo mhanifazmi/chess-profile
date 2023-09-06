@@ -6,13 +6,6 @@ Welcome to Chess mhanifazmi's profile! This README provides the steps to get you
 
 These instructions will help you clone the project repository and set up your development environment.
 
-### Prerequisites
-
-Before you begin, ensure you have the following software installed on your computer:
-
-- [Node.js](https://nodejs.org/) (LTS version recommended)
-- [npm](https://www.npmjs.com/) or [Yarn](https://classic.yarnpkg.com/en/) (Node Package Manager)
-
 ### Clone the Repository
 ```
 git clone https://github.com/mhanifazmi/chess-profile.git
