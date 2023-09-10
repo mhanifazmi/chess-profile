@@ -7,9 +7,8 @@ Welcome to Chess mhanifazmi's profile! This README provides the steps to get you
 These instructions will help you clone the project repository and set up your development environment.
 
 ### System Demo
-```
-https://chess.mhanifazmi.com/
-```
+[https://chess.mhanifazmi.com/](https://chess.mhanifazmi.com/)
+
 
 ### Clone the Repository
 ```
