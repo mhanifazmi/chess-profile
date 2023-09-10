@@ -12,7 +12,11 @@
                             <label for="pwd">URL</label>
                             <input disabled v-model="form.url" type="text" class="form-control" id="pwd">
                         </div>
-                        <button type="submit" class="btn btn-danger mt-2" @click="deleteConfirmation()">Delete</button>
+                        <div style="text-align: right;">
+                            <a type="button" class="btn btn-secondary mt-2" style="margin-right: 5px;"
+                                href="/references">Back</a>
+                            <button type="submit" class="btn btn-danger mt-2" @click="deleteConfirmation()">Delete</button>
+                        </div>
                     </div>
                 </div>
             </div>
